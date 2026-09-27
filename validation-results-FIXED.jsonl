@@ -1,0 +1,1506 @@
+{
+  "activity_title": "Statistics: Mean vs. Average — Distinguishing Measures of Central Tendency",
+  "overall_status": "FAIL",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Premise Evaluation",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "- 📝 [INSERT STUDENT WORKSHEET HERE] — pre-built salary dataset (15–20 fictional employee salaries including one executi",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🔴 FAIL",
+      "evidence": "Only 0 rubric row(s) detected",
+      "recommendation": "Rubric must have at least 3 criteria."
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟢 PASS",
+      "evidence": "4 question(s) detected",
+      "recommendation": null
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "130 total minutes across 17 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟡 WARN",
+      "evidence": "~5 sentences — may be too long",
+      "recommendation": "Trim the Narrative Hook to 2-3 sentences."
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟡 WARN",
+      "evidence": "L37: - Optional: printed vocabulary reference card (mean, median, mode, outlier, measure of central tendency) | L46: - \"Average\" is a colloquial umbrella term — it can refer to mean, median, or mode depending on context.",
+      "recommendation": "Resolve or qualify the 2 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\"."
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟢 PASS",
+      "evidence": "L5: Evaluating the premise: The topic \"difference between mean and average\" needs careful evaluation. In common usage, \"aver",
+      "recommendation": null
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "8 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L34: - 📝 [INSERT STUDENT WORKSHEET HERE] — pre-built salary dataset (15–20 fictional employee salaries including one executi",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Adding a cross-curricular link broadens the activity's usefulness."
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Rubric must have at least 3 criteria.",
+    "Trim the Narrative Hook to 2-3 sentences.",
+    "Resolve or qualify the 2 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\".",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Adding a cross-curricular link broadens the activity's usefulness.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Physics: Newton's Laws and the Discovery of Their Domain Boundaries",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "- ✏️ [INSERT TEACHER NOTE HERE] — Consider connecting to any concurrent history curriculum content on the Scientific Rev",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "7 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "120 total minutes across 16 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟢 PASS",
+      "evidence": "~4 sentence(s)",
+      "recommendation": null
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟡 WARN",
+      "evidence": "L30: - Optional: a single printed timeline strip of physics history per group (hand-drawn acceptable)",
+      "recommendation": "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\"."
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟢 PASS",
+      "evidence": "L41: - Ask students to write the three laws in their own words on their paper before you discuss them. Take two or three resp",
+      "recommendation": null
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "7 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L53: - ✏️ [INSERT TEACHER NOTE HERE] — Consider connecting to any concurrent history curriculum content on the Scientific Rev",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🟢 PASS",
+      "evidence": "L116: **Extend the history component** — the 10-minute historical activity can expand to a full period if you are co-teaching ",
+      "recommendation": null
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\".",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "History: Indigenous Agency and Strategic Choices During Colonization",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "📷 [INSERT PHOTO OR IMAGE HERE] (e.g., a projected map showing indigenous territories before and after colonization, or ",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "11 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "150 total minutes across 13 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟢 PASS",
+      "evidence": "~3 sentence(s)",
+      "recommendation": null
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟡 WARN",
+      "evidence": "L25: - 1 shared class laptop (for teacher-projected images or maps, optional)",
+      "recommendation": "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\"."
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟡 WARN",
+      "evidence": null,
+      "recommendation": "Consider adding a note on common misconceptions or false premises students may bring to this topic."
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "6 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L85: 📷 [INSERT PHOTO OR IMAGE HERE] (e.g., a projected map showing indigenous territories before and after colonization, or ",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🟢 PASS",
+      "evidence": "L93: **Extend the lesson** into a multi-day unit by having students research one indigenous figure (Malintzin, Pocahontas, Me",
+      "recommendation": null
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\".",
+    "Consider adding a note on common misconceptions or false premises students may bring to this topic.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Biology: Photosynthesis — Correcting the \"Plants Eat Sunlight\" Misconception",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "✏️ [INSERT TEACHER NOTE HERE]",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "8 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "120 total minutes across 13 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟢 PASS",
+      "evidence": "~4 sentence(s)",
+      "recommendation": null
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟢 PASS",
+      "evidence": "No ambiguous phrasing detected",
+      "recommendation": null
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟢 PASS",
+      "evidence": "L1: # Biology: Photosynthesis — Correcting the \"Plants Eat Sunlight\" Misconception",
+      "recommendation": null
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "6 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L101: ✏️ [INSERT TEACHER NOTE HERE]",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Adding a cross-curricular link broadens the activity's usefulness."
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Adding a cross-curricular link broadens the activity's usefulness.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Language Arts: Shakespeare's Language Through Bilingual Lens (Portuguese/English EFL)",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "- ✏️ [INSERT TEACHER NOTE HERE] — \"Psychological safety point: This is not a comprehension test. Both languages are chal",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "12 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "180 total minutes across 14 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟢 PASS",
+      "evidence": "~2 sentence(s)",
+      "recommendation": null
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟡 WARN",
+      "evidence": "L30: - Audio recording of the scene in both languages (optional but highly recommended)",
+      "recommendation": "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\"."
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟡 WARN",
+      "evidence": null,
+      "recommendation": "Consider adding a note on common misconceptions or false premises students may bring to this topic."
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "6 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L55: - ✏️ [INSERT TEACHER NOTE HERE] — \"Psychological safety point: This is not a comprehension test. Both languages are chal",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Adding a cross-curricular link broadens the activity's usefulness."
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\".",
+    "Consider adding a note on common misconceptions or false premises students may bring to this topic.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Adding a cross-curricular link broadens the activity's usefulness.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Chemistry: CO₂ Combustion — Breaking the Circular Reasoning Loop",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "📷 [INSERT PHOTO OR IMAGE HERE] — Video clip or series of photos showing combustion in a controlled lab setting",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "7 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "120 total minutes across 11 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟡 WARN",
+      "evidence": "~8 sentences — may be too long",
+      "recommendation": "Trim the Narrative Hook to 2-3 sentences."
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟢 PASS",
+      "evidence": "No ambiguous phrasing detected",
+      "recommendation": null
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟡 WARN",
+      "evidence": null,
+      "recommendation": "Consider adding a note on common misconceptions or false premises students may bring to this topic."
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "5 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L96: 📷 [INSERT PHOTO OR IMAGE HERE] — Video clip or series of photos showing combustion in a controlled lab setting",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Adding a cross-curricular link broadens the activity's usefulness."
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Trim the Narrative Hook to 2-3 sentences.",
+    "Consider adding a note on common misconceptions or false premises students may bring to this topic.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Adding a cross-curricular link broadens the activity's usefulness.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Social Studies: Water Scarcity in Botswana — A Global Challenge with Local Faces",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "📷 [INSERT PHOTO OR IMAGE HERE] — A photograph of your local water source, drought conditions, or water infrastructure",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "9 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "120 total minutes across 13 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟡 WARN",
+      "evidence": "~6 sentences — may be too long",
+      "recommendation": "Trim the Narrative Hook to 2-3 sentences."
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟡 WARN",
+      "evidence": "L28: - Optional: a single picture or photograph of a Botswana landscape (Kalahari, well, or water point)",
+      "recommendation": "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\"."
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟡 WARN",
+      "evidence": null,
+      "recommendation": "Consider adding a note on common misconceptions or false premises students may bring to this topic."
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "5 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L90: 📷 [INSERT PHOTO OR IMAGE HERE] — A photograph of your local water source, drought conditions, or water infrastructure",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Adding a cross-curricular link broadens the activity's usefulness."
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Trim the Narrative Hook to 2-3 sentences.",
+    "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\".",
+    "Consider adding a note on common misconceptions or false premises students may bring to this topic.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Adding a cross-curricular link broadens the activity's usefulness.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Visual Arts & Mathematics: Proportion, Pattern, and Measurement in Figure Drawing",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "- 📷 [INSERT PHOTO OR IMAGE HERE] — A step-by-step reference showing the proportional grid for a face",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "9 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "140 total minutes across 13 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟡 WARN",
+      "evidence": "~6 sentences — may be too long",
+      "recommendation": "Trim the Narrative Hook to 2-3 sentences."
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟡 WARN",
+      "evidence": "L28: - Paper (mixed sizes: 8.5\"×11\" and larger optional) | L30: - Optional: printed reference sheet showing proportional rules (face, full body) | L73: - Optional: Provide a reference figure (printed photo of a person or an artist's proportional diagram). | L85: - Display 5–6 student drawings on the board or on a wall gallery walk (optional).",
+      "recommendation": "Resolve or qualify the 4 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\"."
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟡 WARN",
+      "evidence": null,
+      "recommendation": "Consider adding a note on common misconceptions or false premises students may bring to this topic."
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "6 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L63: - 📷 [INSERT PHOTO OR IMAGE HERE] — A step-by-step reference showing the proportional grid for a face",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🟢 PASS",
+      "evidence": "L121: ✏️ [INSERT TEACHER NOTE HERE] — This works well as a cross-curricular math + art unit.",
+      "recommendation": null
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Trim the Narrative Hook to 2-3 sentences.",
+    "Resolve or qualify the 4 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\".",
+    "Consider adding a note on common misconceptions or false premises students may bring to this topic.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Computer Science: Password Entropy and Security Through Computational Thinking",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "📝 [INSERT STUDENT WORKSHEET HERE] — Spreadsheet template with formulas pre-built for entropy calculation",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "5 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "8 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "140 total minutes across 11 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟡 WARN",
+      "evidence": "~6 sentences — may be too long",
+      "recommendation": "Trim the Narrative Hook to 2-3 sentences."
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟡 WARN",
+      "evidence": "L28: - Optional: printed quick-reference guide to the entropy formula: Entropy (bits) = log₂(number of possible characters)^(",
+      "recommendation": "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\"."
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟡 WARN",
+      "evidence": null,
+      "recommendation": "Consider adding a note on common misconceptions or false premises students may bring to this topic."
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "5 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L133: 📝 [INSERT STUDENT WORKSHEET HERE] — Spreadsheet template with formulas pre-built for entropy calculation",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Adding a cross-curricular link broadens the activity's usefulness."
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Trim the Narrative Hook to 2-3 sentences.",
+    "Resolve or qualify the 1 ambiguous instruction phrase(s): \"if applicable\", \"depending on\", bare \"optional\".",
+    "Consider adding a note on common misconceptions or false premises students may bring to this topic.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Adding a cross-curricular link broadens the activity's usefulness.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}
+{
+  "activity_title": "Interdisciplinary: Food Systems Design — Resilience, Ethics, and Local Constraints",
+  "overall_status": "FLAG",
+  "critical_items": [
+    {
+      "id": "section_hook",
+      "item": "Narrative Hook section present",
+      "status": "🟢 PASS",
+      "evidence": "## Narrative Hook",
+      "recommendation": null
+    },
+    {
+      "id": "section_timeline",
+      "item": "Timeline section present",
+      "status": "🟢 PASS",
+      "evidence": "## Timeline",
+      "recommendation": null
+    },
+    {
+      "id": "section_materials",
+      "item": "Materials section present",
+      "status": "🟢 PASS",
+      "evidence": "## Materials",
+      "recommendation": null
+    },
+    {
+      "id": "section_instructions",
+      "item": "Step-by-Step Instructions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Step-by-Step Instructions",
+      "recommendation": null
+    },
+    {
+      "id": "section_rubric",
+      "item": "Assessment Rubric section present",
+      "status": "🟢 PASS",
+      "evidence": "## Assessment Rubric",
+      "recommendation": null
+    },
+    {
+      "id": "section_customization",
+      "item": "Customization Zones section present",
+      "status": "🟢 PASS",
+      "evidence": "## Customization Zones",
+      "recommendation": null
+    },
+    {
+      "id": "customization_placeholders",
+      "item": "Customization placeholders (📷 / ✏️ / 📝) present",
+      "status": "🟢 PASS",
+      "evidence": "- ✏️ [INSERT TEACHER NOTE HERE] — \"Groups may feel overwhelmed. Help them focus on one piece (e.g., 'Let's start with 10",
+      "recommendation": null
+    },
+    {
+      "id": "rubric_criteria",
+      "item": "Rubric has ≥ 3 criteria",
+      "status": "🟢 PASS",
+      "evidence": "6 criteria detected",
+      "recommendation": null
+    }
+  ],
+  "important_items": [
+    {
+      "id": "section_reflection",
+      "item": "Reflection Questions section present",
+      "status": "🟢 PASS",
+      "evidence": "## Reflection Questions",
+      "recommendation": null
+    },
+    {
+      "id": "reflection_count",
+      "item": "Reflection has 3-5 questions",
+      "status": "🟡 WARN",
+      "evidence": "8 questions — may be too many",
+      "recommendation": "Trim to 3-5 focused questions."
+    },
+    {
+      "id": "timeline_minutes",
+      "item": "Timeline contains explicit time allocations",
+      "status": "🟢 PASS",
+      "evidence": "370 total minutes across 13 time token(s)",
+      "recommendation": null
+    },
+    {
+      "id": "hook_length",
+      "item": "Narrative Hook is 2-3 sentences",
+      "status": "🟡 WARN",
+      "evidence": "~7 sentences — may be too long",
+      "recommendation": "Trim the Narrative Hook to 2-3 sentences."
+    },
+    {
+      "id": "ambiguous_instructions",
+      "item": "No unresolved ambiguous instructions",
+      "status": "🟢 PASS",
+      "evidence": "No ambiguous phrasing detected",
+      "recommendation": null
+    },
+    {
+      "id": "misconception_addressed",
+      "item": "Common misconceptions or false-premise traps mentioned",
+      "status": "🟡 WARN",
+      "evidence": null,
+      "recommendation": "Consider adding a note on common misconceptions or false premises students may bring to this topic."
+    },
+    {
+      "id": "instructions_numbered",
+      "item": "Step-by-Step Instructions use numbered steps",
+      "status": "🟢 PASS",
+      "evidence": "6 numbered step(s)",
+      "recommendation": null
+    }
+  ],
+  "nice_to_have_items": [
+    {
+      "id": "data_citations",
+      "item": "Data citations or references present",
+      "status": "🟢 PASS",
+      "evidence": "L59: - **How it's distributed** (local markets? community-supported agriculture [CSA]? food cooperatives? home delivery?)",
+      "recommendation": null
+    },
+    {
+      "id": "section_flowchart",
+      "item": "Mermaid Flowchart section present",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow."
+    },
+    {
+      "id": "cross_curricular",
+      "item": "Cross-curricular connection mentioned",
+      "status": "🟢 PASS",
+      "evidence": "L1: # Interdisciplinary: Food Systems Design — Resilience, Ethics, and Local Constraints",
+      "recommendation": null
+    },
+    {
+      "id": "low_resource_friendly",
+      "item": "Low-resource / no-tech alternatives mentioned",
+      "status": "🔵 ABSENT",
+      "evidence": null,
+      "recommendation": "Mention a low-resource or offline alternative to increase global accessibility."
+    }
+  ],
+  "recommendations": [
+    "Trim to 3-5 focused questions.",
+    "Trim the Narrative Hook to 2-3 sentences.",
+    "Consider adding a note on common misconceptions or false premises students may bring to this topic.",
+    "A ## Flowchart section with a Mermaid TD diagram helps teachers visualize the activity flow.",
+    "Mention a low-resource or offline alternative to increase global accessibility."
+  ]
+}

@@ -1,0 +1,31 @@
+You are reviewing a teaching activity you just generated, acting as a strict but fair quality reviewer. Check it against exactly these 5 patterns — nothing else. These patterns were identified from a real QA audit of prior activities.
+
+CRITICAL RULE — READ THIS FIRST:
+You must NEVER invent, generate, or fabricate a specific citation — no author names, book titles, publisher names, journal names, or publication years — for any reason, even when the fix for Check 1 below calls for "sourcing" a number. You cannot reliably verify from memory whether a specific citation is real. A fabricated citation that looks authoritative is a worse defect than an unsourced number, because a teacher is likely to trust and repeat it. If a number needs sourcing, use the safe remediation described in Check 1 below — never a specific invented reference.
+
+THE 5 CHECKS:
+
+1. DATA SOURCING — Any specific numeric figure, statistic, or data table (percentages, yields, physical constants, contested historical figures presented as precise data) must be handled safely if unsourced. This does NOT mean inventing a citation. The correct fix is one of:
+   (a) If the number is a well-established, uncontested physical constant or universally taught figure (e.g., g = 9.8 m/s², freezing point of water), no citation is needed at all — leave it as is.
+   (b) If the number is a contested, estimated, or historically debated figure (casualty counts, displacement estimates, economic statistics, etc.), do NOT add a fake citation. Instead, add a brief qualifying phrase acknowledging the estimate's uncertainty (e.g., "estimates vary across sources due to incomplete historical records") AND/OR insert an explicit placeholder flag such as: "⚠️ [TEACHER: verify this figure against a current, reputable source before class]".
+   A number that is contested and stated with false precision, with no qualifier and no verify-flag, is the defect to catch — the fix is the qualifier/flag, never an invented source.
+
+2. FALSE BINARY — If the activity involves a social, historical, or ethical topic with a chart, categorization, or framing that splits people's choices/experiences into exactly two opposing categories (e.g., "Collaborate vs. Resist," "Winners vs. Losers"), check whether real-world nuance is being flattened. If so, the fix is adding a third category or explicit acknowledgment column (e.g., "Context / Constraint") — not removing the binary entirely, just not letting it stand alone as the only lens.
+
+3. SCOPE VS. TIMELINE — If the activity's step count, discipline count and/or content depth is significantly more ambitious than its stated total time allows (e.g., 5+ substantial phases packed into a single 50-60 min period, or 4+ academic disciplines integrated in one sitting), flag it. The fix is either trimming scope or explicitly recommending a multi-day/multi-period structure.
+
+4. RUBRIC WITHOUT EXEMPLARS — If the Assessment Rubric uses subjective/qualitative level descriptors (e.g., "developing," "proficient," "exemplary," "clearly evident," "partially resolved") WITHOUT at least one concrete example or observable indicator per level, flag it. The fix is adding one concrete, observable indicator per rubric level (not full sample work, just a one-line "what this looks like" note). This must describe observable student behavior/output, not invented facts or sources.
+
+5. NO OPT-OUT FOR PUBLIC PERFORMANCE — If the activity requires any student to perform, present, speak, or be evaluated in front of the class/peers (especially in a second language, or involving physical/artistic display), check whether there is an explicit alternative or opt-out option (e.g., a non-speaking role, written alternative, small-group-only sharing). If none exists, flag it. The fix is adding one sentence offering a low-pressure alternative.
+
+YOUR TASK:
+1. Read the activity draft below.
+2. For each of the 5 checks, state explicitly: TRIGGERED or CLEAR, with one-line evidence quoting or pointing to the specific location in the text.
+3. If ALL 5 checks are CLEAR, say so plainly and return the activity completely unchanged — do not invent problems that aren't there.
+4. If ANY check is TRIGGERED, apply the minimal targeted fix described above for that check only. Do not rewrite unrelated sections. Do not change anything that wasn't flagged. Remember the CRITICAL RULE above — no fabricated citations, ever.
+5. Return your check results first, then the full activity text (either unchanged, or with your minimal fixes applied) in complete markdown format.
+
+DRAFT ACTIVITY TO REVIEW:
+---
+PASTE_DRAFT_ACTIVITY_HERE
+---
